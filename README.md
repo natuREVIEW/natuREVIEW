@@ -2,6 +2,10 @@
 
 ## Features
 
+*  Autonomous video streaming
+*  Online and offline available
+*  Solar powered
+
 ## Hardware requirements
 
 *   Raspberry Pi Zero, choose your model:
