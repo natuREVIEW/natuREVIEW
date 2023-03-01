@@ -11,12 +11,17 @@ Project natuREVIEW
 *   Power supply with gracefull shutdown feature:
     *   [Zero2Go Omini rev. 1](https://www.uugear.com/product/zero2go-rev1-omini-wide-input-range-multi-channel-power-supply-for-raspberry-pi/) - [user manual](http://www.uugear.com/doc/Zero2Go_Omini_UserManual.pdf)
     *   [Zero2Go Omini rev. 2](https://www.uugear.com/product/zero2go-omini-wide-input-range-multi-channel-power-supply-for-raspberry-pi/) - [user manual](https://www.uugear.com/doc/Zero2Go_Omini_Rev2_UserManual.pdf)
-* Battery pack
+*   Battery pack
     *   3.7V Lithium-Polymer (LiPo) battery pack
-* Solar panel
+*   Solar panel
     *   [Voltaic Systems - Huge 6V 6W Solar panel](https://www.adafruit.com/product/1525)
-* Storage
+*   Storage
     *   microSD card, we used [SanDisk 128GB](https://www.westerndigital.com/products/memory-cards/sandisk-ultra-uhs-i-chromebook-microsd#SDSQUAB-128G-GN6FA)
+
+# Hardware optional
+
+*   Real Time Clock
+    *   [Adafruit PiRTC - PCF8523](https://www.adafruit.com/product/3386) - [Howto](https://learn.adafruit.com/adding-a-real-time-clock-to-raspberry-pi)
 
 # Software requirements
 
