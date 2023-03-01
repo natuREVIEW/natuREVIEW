@@ -1,9 +1,8 @@
-# natuREVIEW
-Project natuREVIEW
+# Project natuREVIEW
 
-# Features
+## Features
 
-# Hardware requirements
+## Hardware requirements
 
 *   Raspberry Pi Zero, choose your model:
     *   [Raspberry Pi Zero W](https://www.raspberrypi.com/products/raspberry-pi-zero-w/)
@@ -18,7 +17,7 @@ Project natuREVIEW
 * Storage
     *   microSD card, we used [SanDisk 128GB](https://www.westerndigital.com/products/memory-cards/sandisk-ultra-uhs-i-chromebook-microsd#SDSQUAB-128G-GN6FA)
 
-# Software requirements
+## Software requirements
 
 *   Raspberry Pi OS
     *   Camera support
@@ -29,10 +28,10 @@ Project natuREVIEW
         *   [quotatool](https://github.com/ekenberg/quotatool)
 *   
 
-# Software optionals
+## Software optionals
 
 *   [VLC Player](https://www.videolan.org/vlc/) to test the video-stream
 
-# Additional reading material
+## Additional reading material
 
 *   [Power consumption of various RPi models](https://circuitdigest.com/electronics-circuits/design-and-build-raspberry-pi-li-ion-batery-hat)
