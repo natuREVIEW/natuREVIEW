@@ -11,7 +11,7 @@
 *   Raspberry Pi Zero, choose your model:
     *   [Raspberry Pi Zero W](https://www.raspberrypi.com/products/raspberry-pi-zero-w/)
     *   [Raspberry Pi Zero 2 W](https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/)
-*   Power supply with gracefull shutdown feature:
+*   Power supply with graceful shutdown feature:
     *   [Zero2Go Omini rev. 1](https://www.uugear.com/product/zero2go-rev1-omini-wide-input-range-multi-channel-power-supply-for-raspberry-pi/) - [user manual](http://www.uugear.com/doc/Zero2Go_Omini_UserManual.pdf)
     *   [Zero2Go Omini rev. 2](https://www.uugear.com/product/zero2go-omini-wide-input-range-multi-channel-power-supply-for-raspberry-pi/) - [user manual](https://www.uugear.com/doc/Zero2Go_Omini_Rev2_UserManual.pdf)
 *   Battery pack
@@ -23,7 +23,7 @@
 
 ## Hardware optional
 
-*   Real Time Clock
+*   Real-time clock
     *   [Adafruit PiRTC - PCF8523](https://www.adafruit.com/product/3386) - [Howto](https://learn.adafruit.com/adding-a-real-time-clock-to-raspberry-pi)
 
 ## Software requirements
@@ -37,7 +37,7 @@
         *   [quotatool](https://github.com/ekenberg/quotatool)
 *   
 
-## Software optionals
+## Software optional
 
 *   [VLC Player](https://www.videolan.org/vlc/) to test the video-stream
 
